@@ -1,0 +1,23 @@
+QMAKE_Cx[i]x[i].QT_COMPILER_STDCx[i]x[i] = 201402L
+QMAKE_Cx[i]x[i].QMAKE_GCC_MAJOR_VERSION = 9
+QMAKE_Cx[i]x[i].QMAKE_GCC_MINOR_VERSION = 3
+QMAKE_Cx[i]x[i].QMAKE_GCC_PATCH_VERSION = 0
+QMAKE_Cx[i]x[i].COMPILER_MACROS = \
+    QT_COMPILER_STDCx[i]x[i] \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
+QMAKE_Cx[i]x[i].INCDIRS = \
+    /usr/include/c++/9 \
+    /usr/include/x[i]86_64-linux[i]-gnu/c++/9 \
+    /usr/include/c++/9/backward \
+    /usr/lib/gcc/x[i]86_64-linux[i]-gnu/9/include \
+    /usr/local/include \
+    /usr/include/x[i]86_64-linux[i]-gnu \
+    /usr/include
+QMAKE_Cx[i]x[i].LIBDIRS = \
+    /usr/lib/gcc/x[i]86_64-linux[i]-gnu/9 \
+    /usr/lib/x[i]86_64-linux[i]-gnu \
+    /usr/lib \
+    /lib/x[i]86_64-linux[i]-gnu \
+    /lib
